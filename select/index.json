@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "러시안 룰렛 Russian Roulette",
+  "base_artist": "Red Velvet",
+  "createdAt": "2026-01-11T07:23:11.757103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "러시안 룰렛 Russian Roulette",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/01_러시안_룰렛_Russian_Roulette_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "러시안 룰렛 (Russian Roulette)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_러시안_룰렛_(Russian_Roulette)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "러시안 룰렛 (Russian Roulette)",
+      "artist": "레드벨벳 (Red Velvet)",
+      "has_synced": true,
+      "path": "select/03_러시안_룰렛_(Russian_Roulette)_레드벨벳_(Red_Velvet).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "러시안 룰렛 (Russian Roulette)",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/04_러시안_룰렛_(Russian_Roulette)_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Velvet - 러시안 룰렛 (Russian Roulette)[AUDIO/MP3]",
+      "artist": "MUSIC K-POP",
+      "has_synced": true,
+      "path": "select/05_Red_Velvet_-_러시안_룰렛_(Russian_Roulette)[AUDIO_MP3]_MUSIC_K-POP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "러시안 룰렛 Russian Roulette",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/06_러시안_룰렛_Russian_Roulette_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "러시안 룰렛 (Russian Roulette)",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/07_러시안_룰렛_(Russian_Roulette)_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Red Velvet - 러시안 룰렛 (Russian Roulette)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/08_Red_Velvet_-_러시안_룰렛_(Russian_Roulette)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "러시안 룰렛 (Russian Roulette)",
+      "artist": "레드벨벳 (RED VELVET)",
+      "has_synced": true,
+      "path": "select/09_러시안_룰렛_(Russian_Roulette)_레드벨벳_(RED_VELVET).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "러시안 룰렛",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_러시안_룰렛_Red_Velvet.txt"
+    }
+  ]
+}
